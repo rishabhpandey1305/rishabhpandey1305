@@ -11,15 +11,23 @@
 </p>
 
 ---
+<h2 align="center">👨‍💻 <span style="color:#00BFFF;">About Me</span></h2>
+
+<p align="center">
+<strong style="color:#00BFFF;">Name:</strong> <span style="color:#32CD32;">Rishabh Pandey</span><br>
+<strong style="color:#00BFFF;">Education:</strong> <span style="color:#32CD32;">B.Tech – IT (3rd Year)</span><br>
+<strong style="color:#00BFFF;">Specialization:</strong> <span style="color:#32CD32;">Backend & Data Structures</span><br>
+<strong style="color:#00BFFF;">Primary Stack:</strong> <span style="color:#32CD32;">Java, Spring Boot, React, MySQL</span><br>
+<strong style="color:#00BFFF;">Current Focus:</strong> <span style="color:#32CD32;">Advanced DSA & System Design</span><br>
+<strong style="color:#00BFFF;">Career Goal:</strong> <span style="color:#32CD32;">Product-Based Software Engineer</span><br>
+<strong style="color:#00BFFF;">Location:</strong> <span style="color:#32CD32;">India</span>
+</p>
 
 <!-- ================= TECH STACK ================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,git,github,docker,linux&theme=dark" />
 </p>
-
----
-
 <!-- ================= GITHUB STATS ================= -->
 
 <table align="center">
@@ -78,14 +86,3 @@
 </p>
 
 ---
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Rishabh Pandey
-Education: B.Tech - Information Technology (3rd Year)
-Specialization: Backend Development & Data Structures
-Primary Stack: Java, Spring Boot, React, MySQL
-Current Focus: Advanced DSA + System Design
-Career Goal: Software Engineer at a Product-Based Company
-Location: India
