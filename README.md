@@ -1,31 +1,91 @@
-<!-- ========================= BANNER ========================= -->
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Rishabh%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20|%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=260&section=header&text=Rishabh%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20|%20Software%20Engineering%20Aspirant&descAlignY=55&descSize=20"/>
 </p>
 
-<!-- ========================= TYPING ANIMATION ========================= -->
+<!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%7C+DSA+%7C+Backend+Developer;Spring+Boot+%7C+React+%7C+MySQL;Future+Product-Based+Company+Engineer;Consistent+Learner+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;DSA+Enthusiast;Spring+Boot+%7C+React;Future+Product-Based+Engineer;Consistency+%3E+Motivation" />
 </p>
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey1305&show_icons=true&theme=tokyonight&border_radius=15" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=15" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=15" height="170"/> </p>
+<!-- ================= TECH STACK ================= -->
 
-<p align="center"> <a href="https://linkedin.com/in/rishabhpandey1305@gmail.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/rishabh_pandey13"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="mailto:rishabhpandey1305@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,mysql,git,github&theme=dark" />
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhpandey1305&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhpandey1305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpandey1305&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= LEETCODE ================= -->
+
+<p align="center">
+  <img width="60%" src="https://leetcard.jacoblin.cool/rishabh_pandey13?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+<!-- ================= VISITOR COUNTER ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhpandey1305&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-pandey-685226327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/rishabh_pandey13" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:rishabhpandey1305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 # 👨‍💻 About Me
 
 ```yaml
 Name: Rishabh Pandey
-Degree: B.Tech - Information Technology
-Year: 3rd Year
-Focus: Data Structures & Algorithms + Fullstack Development
-Goal: Crack Product-Based / MNC Placement
+Education: B.Tech - Information Technology (3rd Year)
+Specialization: Backend Development & Data Structures
+Primary Stack: Java, Spring Boot, React, MySQL
+Current Focus: Advanced DSA + System Design
+Career Goal: Software Engineer at a Product-Based Company
 Location: India
-
-
