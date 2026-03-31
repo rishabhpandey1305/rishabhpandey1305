@@ -50,7 +50,7 @@
 <!-- ================= LEETCODE ================= -->
 
 <p align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/rishabh_pandey13?theme=dark&font=Baloo&ext=heatmap"/>
+  <img width="60%" src="https://leetcode.jacoblin.cool/rishabh_pandey13?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
